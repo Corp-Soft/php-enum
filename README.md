@@ -1,4 +1,4 @@
-# PHP Enum implementation.
+# PHP Enum implementation
 
 [![Latest Stable Version](https://poser.pugx.org/corp-soft/php-enum/v/stable)](https://packagist.org/packages/corp-soft/php-enum)
 [![Total Downloads](https://poser.pugx.org/corp-soft/php-enum/downloads)](https://packagist.org/packages/corp-soft/php-enum)
