@@ -25,5 +25,10 @@
         "psr-4": {
             "CorpSoft\\Enum\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CorpSoft\\Tests\\Enum\\": "tests/"
+        }
     }
 }
