@@ -1,6 +1,8 @@
 # PHP Enum implementation.
 
-
+[![Latest Stable Version](https://poser.pugx.org/corp-soft/php-enum/v/stable)](https://packagist.org/packages/corp-soft/php-enum)
+[![Total Downloads](https://poser.pugx.org/corp-soft/php-enum/downloads)](https://packagist.org/packages/corp-soft/php-enum)
+[![License](https://poser.pugx.org/corp-soft/php-enum/license)](https://packagist.org/packages/corp-soft/php-enum)
 [![Build Status](https://travis-ci.org/Corp-Soft/php-enum.svg?branch=master)](https://travis-ci.org/Corp-Soft/php-enum)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Corp-Soft/php-enum/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Corp-Soft/php-enum/?branch=master)
 
