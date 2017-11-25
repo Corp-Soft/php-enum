@@ -17,5 +17,5 @@ install:
   - travis_retry composer install --prefer-dist --no-interaction
 
 script:
-  - vendor/friendsofphp/php-cs-fixer/php-cs-fixer fix --dry-run --diff
+  - vendor/bin/php-cs-fixer fix --dry-run --diff
   - vendor/bin/phpunit --verbose
