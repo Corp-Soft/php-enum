@@ -1,4 +1,4 @@
-PHP Enum implementation.
+# PHP Enum implementation.
 
 Installation
 ------------
@@ -8,13 +8,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist Corp-Soft/php-enum "*"
+php composer.phar require --prefer-dist corp-soft/php-enum "*"
 ```
 
 or add
 
 ```
-"Corp-Soft/php-enum": "*"
+"corp-soft/php-enum": "*"
 ```
 
 to the require section of your `composer.json` file.
