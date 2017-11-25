@@ -2,6 +2,7 @@
 
 
 [![Build Status](https://travis-ci.org/Corp-Soft/php-enum.svg?branch=master)](https://travis-ci.org/Corp-Soft/php-enum)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Corp-Soft/php-enum/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Corp-Soft/php-enum/?branch=master)
 
 Installation
 ------------
