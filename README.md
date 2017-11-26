@@ -1,4 +1,10 @@
-# PHP Enum implementation
+<p align="center">
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://avatars1.githubusercontent.com/u/33844443" height="100px">
+    </a>
+    <h1 align="center">PHP Enum implementation</h1>
+    <br>
+</p>
 
 [![Latest Stable Version](https://poser.pugx.org/corp-soft/php-enum/v/stable)](https://packagist.org/packages/corp-soft/php-enum)
 [![Total Downloads](https://poser.pugx.org/corp-soft/php-enum/downloads)](https://packagist.org/packages/corp-soft/php-enum)
