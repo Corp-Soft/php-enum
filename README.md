@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars1.githubusercontent.com/u/33844443" height="100px">
-    </a>
+    <img src="https://avatars1.githubusercontent.com/u/33844443" height="100px">
     <h1 align="center">PHP Enum implementation</h1>
     <br>
 </p>
